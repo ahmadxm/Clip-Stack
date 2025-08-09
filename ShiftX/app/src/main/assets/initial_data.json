@@ -1,0 +1,28 @@
+{
+  "employees": [
+    {
+      "id": "E001",
+      "name": "Alice Lee",
+      "password": "alicepass",
+      "jobTitle": "Cashier",
+      "gender": "Female",
+      "isActingInCharge": false,
+      "annualLeaveEntitlement": 14,
+      "sickLeaveEntitlement": 7
+    },
+    {
+      "id": "E002",
+      "name": "Bob Chan",
+      "password": "bobpass",
+      "jobTitle": "Barista",
+      "gender": "Male",
+      "isActingInCharge": true,
+      "annualLeaveEntitlement": 14,
+      "sickLeaveEntitlement": 7
+    }
+  ],
+  "publicHolidays": [
+    { "date": "2025-01-01", "name": "New Year's Day" },
+    { "date": "2025-02-01", "name": "City Foundation Day" }
+  ]
+}
